@@ -1,0 +1,3 @@
+/home/noname/Documents/netSec/lab1/cli/cmake-build-debug/CMakeFiles/cli.dir
+/home/noname/Documents/netSec/lab1/cli/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noname/Documents/netSec/lab1/cli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
