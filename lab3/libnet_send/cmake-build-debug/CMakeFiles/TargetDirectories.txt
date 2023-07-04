@@ -1,0 +1,3 @@
+/home/noname/CLionProjects/libnet_send/cmake-build-debug/CMakeFiles/libnet_send.dir
+/home/noname/CLionProjects/libnet_send/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noname/CLionProjects/libnet_send/cmake-build-debug/CMakeFiles/rebuild_cache.dir
